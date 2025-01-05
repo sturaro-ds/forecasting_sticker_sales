@@ -1,6 +1,6 @@
 # Series Temporais | Forecasting Sticker Sales
 
-![Kaggle Competition]([https://upload.wikimedia.org/wikipedia/commons/3/38/Kaggle_logo.png](https://sigmoidal.ai/wp-content/uploads/2022/06/Forecasting-2-1024x626.png))
+![Kaggle Competition](https://sigmoidal.ai/wp-content/uploads/2022/06/Forecasting-2-1024x626.png)
 
 Este projeto é parte de uma competição do Kaggle com o objetivo de prever as vendas de adesivos em diferentes países. Para este desafio, apliquei uma abordagem robusta de modelagem de séries temporais, utilizando o algoritmo **XGBRegressor** do pacote **xgboost**. O modelo foi otimizado para minimizar o **MAPE** (Mean Absolute Percentage Error), que é a principal métrica de avaliação da competição.
 
@@ -14,7 +14,7 @@ Este projeto é parte de uma competição do Kaggle com o objetivo de prever as 
    - O algoritmo escolhido foi o **XGBRegressor**, que é conhecido por sua alta performance em problemas de regressão.
    - Realizei uma busca automatizada para otimizar a combinação de diversos parâmetros e alcançar o melhor **MAPE** possível.
 
-![XGBoost]([https://xgboost.readthedocs.io/en/stable/img/xgboost_logo.png](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6HDinkTP5BbizoL_xKxToA.jpeg))
+![XGBoost](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*6HDinkTP5BbizoL_xKxToA.jpeg)
 
 ## Resultados:
 
