@@ -32,4 +32,4 @@ Com o processo de otimização e a modelagem de séries temporais, consegui melh
 
 Este projeto proporcionou uma excelente oportunidade de aplicar técnicas de modelagem de séries temporais, além de aprofundar o uso de algoritmos de regressão como o **XGBRegressor**. A experiência com o processo de ELT e a engenharia de atributos foi fundamental para melhorar a precisão das previsões. Foi uma ótima forma de entender como diferentes fatores impactam as previsões e otimizar os resultados para um desafio prático no Kaggle.
 
-[Veja as informacoes da Competição]([https://www.kaggle.com/competitions](https://www.kaggle.com/competitions/playground-series-s5e1))
+[Veja as informações da Competição](https://www.kaggle.com/competitions/playground-series-s5e1)
