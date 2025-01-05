@@ -1,4 +1,4 @@
-# Forecasting Sticker Sales - Kaggle Competition
+# Series Temporais | Forecasting Sticker Sales
 
 ![Kaggle Competition]([https://upload.wikimedia.org/wikipedia/commons/3/38/Kaggle_logo.png](https://sigmoidal.ai/wp-content/uploads/2022/06/Forecasting-2-1024x626.png))
 
